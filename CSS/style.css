@@ -45,4 +45,20 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+@font-face {
+  font-family: Brevia;
+  src: url(../Fonts/Brevia-Regular.otf); }
+@font-face {
+  font-family: AvrileRegular;
+  src: url(../Fonts/AvrileSans-Regular.ttf); }
+@font-face {
+  font-family: AvrileMedium;
+  src: url(../Fonts/AvrileSans-Medium.ttf); }
+@font-face {
+  font-family: AvrileBold;
+  src: url(../Fonts/AvrileSans-Bold.ttf);
+  font-weight: bold; }
+p {
+  font-family: AvrileBold, sans-serif; }
+
 /*# sourceMappingURL=style.css.map */
